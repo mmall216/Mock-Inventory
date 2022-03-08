@@ -1,0 +1,139 @@
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+1
+SKU                   DESCRIPTION                               QUANTITY                        PRICE                           
+32145                 Pencils                                   100                             $1.99                           
+32445                 Marble Notebook                           200                             $2.99                           
+12145                 Folder                                    50                              $0.99                           
+22145                 iPad Pro 5th Generation                   10                              $1099.99                        
+42145                 Macbook 2022 Pro                          5                               $1999.99                        
+52145                 HP 9015 Printer                           9                               $299.99                         
+62145                 Epson XP 4100 Printer                     1                               $109.99                         
+31145                 Apple Pencil 1st Generation               2                               $99.99                          
+32145                 Apple Pencil 2nd Generation               100                             $129.99                         
+33145                 HP Pavilion                               1                               $599.99                         
+34145                 Staples Corner Desk                       6                               $79.99                          
+ 
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+2
+Update Inventory Menu:
+Enter The SKU You Would Like To Update:
+dwd
+Input Not Recongnized! Try Again
+Enter The SKU You Would Like To Update:
+3214
+SKU DOES NOT EXIST, TRY AGAIN!
+If you would like to exit, Type 'exit, else type anything to proceed.
+exit
+ 
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+2
+Update Inventory Menu:
+Enter The SKU You Would Like To Update:
+52145
+Enter New Quantity:
+1
+ 
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+3
+Add New Item
+Enter Correct Item SKU
+k
+Input Not Recongnized! Try Again
+Enter Correct Item SKU
+4444
+Enter Item Description:
+Airpods Pro
+Enter the Quantity.
+3
+Enter Price Of Item.
+209.99
+Item Was Successfully Added.
+ 
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+3
+Add New Item
+Enter Correct Item SKU
+99999
+Enter Item Description:
+Purell Hand Sanitizer
+Enter the Quantity.
+17
+Enter Price Of Item.
+4.59
+Item Was Successfully Added.
+ 
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+4
+Removing Item Screen:
+Enter Correct Item SKU
+32145
+Item Was Successfully Removed.
+ 
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+1
+SKU                   DESCRIPTION                               QUANTITY                        PRICE                           
+32445                 Marble Notebook                           200                             $2.99                           
+12145                 Folder                                    50                              $0.99                           
+22145                 iPad Pro 5th Generation                   10                              $1099.99                        
+42145                 Macbook 2022 Pro                          5                               $1999.99                        
+52145                 HP 9015 Printer                           1                               $299.99                         
+62145                 Epson XP 4100 Printer                     1                               $109.99                         
+31145                 Apple Pencil 1st Generation               2                               $99.99                          
+32145                 Apple Pencil 2nd Generation               100                             $129.99                         
+33145                 HP Pavilion                               1                               $599.99                         
+34145                 Staples Corner Desk                       6                               $79.99                          
+4444                  Airpods Pro                               3                               $209.99                         
+99999                 Purell Hand Sanitizer                     17                              $4.59                           
+ 
+Inventory Management Program:
+1- Display Inventory
+2- Update Inventory Quantity
+3- Add New Item
+4- Remove Item
+5- Exit Program
+Enter Your Choice:
+5
+Exiting Program... 
+Changes Successfully Uploaded!
